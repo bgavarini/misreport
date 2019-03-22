@@ -2,3 +2,8 @@
 	path = OCA/mis-builder
 	url = git@github.com:OCA/mis-builder.git
 	branch = 12.0
+
+[submodule "oca/server-ux"]
+	path = oca/server-ux
+	url = git@github.com:oca/server-ux.git
+	branch = 12.0
